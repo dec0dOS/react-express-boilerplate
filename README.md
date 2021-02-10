@@ -10,6 +10,10 @@ Dev env:
 
     yarn dev
 
+Browse http://localhost:3000
+
 Run prod:
 
     yarn prod
+
+Browse http://localhost:4000
